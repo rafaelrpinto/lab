@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>News : NPR - With Invalid URl</title>
+    <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
+    <description>Test RSS</description>
+    <language>en</language>
+    <copyright>Copyright 2020 NPR - For Personal Use Only</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <lastBuildDate>Sat, 21 Nov 2020 07:56:26 -0500</lastBuildDate>
+    <image>
+      <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
+      <title>News</title>
+      <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
+    </image>
+    <item>
+      <title>Invalid feed item</title>
+      <description>intentional invalid url</description>
+      <pubDate>Sat, 21 Nov 2020 07:56:26 -0500</pubDate>
+      <link>https://www.npr.org/sjafhasfhakssfjkahfjhas</link>
+      <guid>https://www.npr.org/sjafhasfhakssfjkahfjhas</guid>
+      <content:encoded><![CDATA[blabla]]></content:encoded>
+      <dc:creator>Test</dc:creator>
+    </item>
+    
+    <item>
+      <title>After Australian Report, Calls Grow For More Investigations Of Abuses In Afghanistan</title>
+      <description>"Only through a series of independent inquiries will we uncover the true extent of this disregard for Afghan life, which normalized murder, and resulted in war crimes," an Afghan rights group says.</description>
+      <pubDate>Fri, 20 Nov 2020 14:55:56 -0500</pubDate>
+      <link>https://www.npr.org/2020/11/20/936742082/after-australian-report-calls-grow-for-more-investigations-of-abuses-in-afghanis</link>
+      <guid>https://www.npr.org/2020/11/20/936742082/after-australian-report-calls-grow-for-more-investigations-of-abuses-in-afghanis</guid>
+      <content:encoded><![CDATA[<img src='https://media.npr.org/assets/img/2020/11/19/ap_20324045636834_wide-33600249f523bedf7370adbb9f97098e7f1d437f.jpg?s=600' alt='An honor guard is formed at Defence Headquarters in Canberra, Australia, before findings from the Inspector-General of the Australian Defence Force Afghanistan Inquiry are released on Thursday. A report found evidence that 25 soldiers unlawfully killed 39 Afghan prisoners, farmers and civilians.'/><p>"Only through a series of independent inquiries will we uncover the true extent of this disregard for Afghan life, which normalized murder, and resulted in war crimes," an Afghan rights group says.</p><p>(Image credit: Mick Tsikas/AP)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=936742082' />]]></content:encoded>
+      <dc:creator>Diaa Hadid</dc:creator>
+    </item>
+  </channel>
+</rss>
